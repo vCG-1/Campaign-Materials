@@ -1,3 +1,3 @@
 # Campaign-Materials
 Campaign materials for the vCG-1 DCS Online Community
-this is a test of the emergency broacast system (saved from my desktop) 
+This is a test of the emergency brocast system --- "Sup, Bro"
